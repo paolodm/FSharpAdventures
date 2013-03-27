@@ -1,0 +1,1 @@
+C:\FSharp\OderskyExercises\OderskyExercises\obj\Debug\OderskyExercises.fsprojResolveAssemblyReference.cache

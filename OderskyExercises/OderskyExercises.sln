@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OderskyExercises", "OderskyExercises\OderskyExercises.fsproj", "{53687B0B-9E03-4443-B689-6513D830DD6C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Assignments", "Assignments\Assignments.fsproj", "{FC07B86F-379B-4E6C-BD1F-C76D4227047B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53687B0B-9E03-4443-B689-6513D830DD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53687B0B-9E03-4443-B689-6513D830DD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53687B0B-9E03-4443-B689-6513D830DD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53687B0B-9E03-4443-B689-6513D830DD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC07B86F-379B-4E6C-BD1F-C76D4227047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC07B86F-379B-4E6C-BD1F-C76D4227047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC07B86F-379B-4E6C-BD1F-C76D4227047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC07B86F-379B-4E6C-BD1F-C76D4227047B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
